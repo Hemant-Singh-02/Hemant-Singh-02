@@ -1,6 +1,6 @@
 # Hey, I'm Hemant 👋
 <p align="center">
-  <img src="./github_cat.gif" width="500">
+  <img src="./cat.gif" width="500">
 </p>
 I'm a developer working toward **backend development**, with a growing focus on Python, APIs, databases, and the fundamentals that connect them.
 
