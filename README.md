@@ -1,9 +1,8 @@
 # Hey, I'm Hemant 👋
 
 <p align="center">
-  <img src[="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFoMjV6cGtzbGp6c2pyMmp6NDZyd2lseW12d2FveG5nMWlmZ3pmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zUn8hAwJwG4abiS0p/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWN2MDl0NWh3ejJpYnA2ejhnNnUwcDBwZXJvZnZmZjVvZW5hYXhqbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XOijEXIPqGCC4M1w1F/giphy.gif)" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTM0ams2ZngyZjlnanZoeTA1bnZsYW9peDI4Zzk2amxpZGp2aHNwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500">
 </p>
-
 I'm a developer working toward **backend development**, with a growing focus on Python, APIs, databases, and the fundamentals that connect them.
 I started out experimenting with Python and machine learning projects and am now going deeper into backend development with **FastAPI, PostgreSQL, and SQLAlchemy**.
 
